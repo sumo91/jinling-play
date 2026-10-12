@@ -1,0 +1,10 @@
+{
+  "generator": "tools/blender_scene.py",
+  "blender": "5.2.1 LTS",
+  "seed": 73,
+  "source": "assets/blender/jinling.blend",
+  "asset": "public/assets/jinling.glb",
+  "bytes": 7185768,
+  "objects": 276,
+  "license": "Original project assets; no third-party models or textures."
+}

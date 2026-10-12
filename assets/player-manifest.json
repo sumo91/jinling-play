@@ -1,0 +1,8 @@
+{
+  "generator": "tools/blender_player.py",
+  "source": "assets/blender/player.blend",
+  "asset": "public/assets/player.glb",
+  "blender": "5.2.1 LTS",
+  "bytes": 181192,
+  "license": "Original project protagonist."
+}

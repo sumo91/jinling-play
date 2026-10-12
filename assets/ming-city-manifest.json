@@ -1,0 +1,21 @@
+{
+  "generator": "tools/blender_city.py",
+  "layout": "src/game/ming-layout.json",
+  "source": "assets/blender/ming-city.blend",
+  "asset": "public/assets/ming-city.glb",
+  "seed": 1590,
+  "counts": {
+    "houses": 656,
+    "trees": 271,
+    "gates": 13,
+    "river_shops": 26,
+    "river_yards": 12,
+    "bridges": 5,
+    "wharves": 5,
+    "boats": 5,
+    "willows": 5
+  },
+  "meshes": 47,
+  "bytes": 3096332,
+  "scope": "Historically informed schematic layout; not a surveyed reconstruction."
+}
